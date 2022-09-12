@@ -1,0 +1,21 @@
+cara instalasi :
+flutter create namaProject
+
+cara instalasi sqflite:
+flutter pub add sqflite :
+https://pub.dev/packages/sqflite 
+flutter pub add sqflite
+
+flutter pub add path_provider :
+https://pub.dev/packages/path_provider
+flutter pub add path_provider
+
+- install depedencies sqflite & path_provider
+- buat beberapa folder untuk project crud
+- kita rapihkan menu project di main.dart
+- untuk membuat widget bisa gubakab snippet :
+stf : statefull
+stl : stateless
+- kita buat koneksi database mengunakan sqflite
+- buat koneksi database, repository(query), model, service
+(MVVM)
