@@ -1,9 +1,9 @@
-# crud
+# Final Project CRUD Sqflite for Training Course Flutter v3
 
-A new Flutter project.
+Materi Lab untuk pelatihan tentang Cross Platform with Flutter di SMK Bagimu Negeri Semarang pada bulan Agustus 2022 
 
 ## Getting Started
-
+flutter clean && flutter pub get
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
